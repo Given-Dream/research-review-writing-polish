@@ -1,5 +1,5 @@
 interface:
-  display_name: "Research Review Writing Polish"
+  display_name: "Paper Polish"
   short_description: "Draft and polish research-paper and review-paper prose with reviewer-aware style."
   default_prompt: "Use $research-review-writing-polish to rewrite or draft a research-paper or review-paper section while preserving scientific meaning and evidential limits."
 
